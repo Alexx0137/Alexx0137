@@ -31,7 +31,7 @@ diagnosticados con mediciones en vez de suposiciones.
 
 - Arquitectura multitenant: API gateway, servicio de autenticación, aislamiento por schema
 - Módulos de extremo a extremo — de la migración de base de datos hasta la pantalla
-- Subiendo mi inglés técnico
+- Migración de funcionalidades entre versiones cuidando compatibilidad de datos
 
 ### Contacto
 
